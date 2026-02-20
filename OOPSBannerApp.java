@@ -1,3 +1,5 @@
+//Author 7
+//Version 7
 public class OOPSBannerApp {
 
     static class CharacterPatternMap {
